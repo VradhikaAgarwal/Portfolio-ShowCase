@@ -1,1 +1,2 @@
 # Portfolio-ShowCase
+I developed a personal portfolio website using HTML, CSS, and JavaScript. The portfolio features a clean and responsive design to showcase personal projects, skills, and achievements. It includes interactive elements and smooth navigation to enhance user experience. This project demonstrates expertise in frontend development and attention to detail in creating visually appealing web interfaces.
